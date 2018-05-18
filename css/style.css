@@ -76,7 +76,7 @@ nav .logo {
   float: left;
   font-size: 48px;
   transition: .3s;
-  color: pink;
+  color: #fccd4d;
 }
 nav .black .logo {
   color: #fff;
@@ -111,7 +111,7 @@ nav ul li a a:focus {
   outline: none;
 }
 nav ul li a.active {
-  background-color: pink;
+  background-color: #fccd4d;
   color: #036A81;
   border-radius: 6px;
 }
